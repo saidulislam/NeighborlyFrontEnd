@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'sineighborlyapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_078f83e8bbca4655a69efbce3a6c44f6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b98a743948eb4ac0ba1f0b8f401fa8f7 }}
